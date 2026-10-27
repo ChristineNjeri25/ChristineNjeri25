@@ -46,4 +46,4 @@ Click any project below to view the code, data, and documentation:
 
 *   **Location:** Nairobi, Kenya 🇰🇪
 *   **Portfolio:** [Data-Analyst-Portfolio Repository](https://github.com/ChristineNjeri25/Data-Analyst-Portfolio)
-*   **Email:** [christy.gathoni@gmail.com]
+*   **Email:** christy.gathoni@gmail.com
